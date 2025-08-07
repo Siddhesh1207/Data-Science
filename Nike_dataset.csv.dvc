@@ -1,0 +1,5 @@
+outs:
+- md5: d69dcd4321d7a45adcc00ef44bd30e6d
+  size: 72770
+  hash: md5
+  path: Nike_dataset.csv
